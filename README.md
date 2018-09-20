@@ -5,7 +5,7 @@
                 "cap1": "Test", 
                 "img1": "https://www.goodfreephotos.com/albums/united-states/colorado/other-colorado/clouds-over-the-lake-and-mountains-in-colorado.jpg"
             }, 
-            "main": "360:https://en.wikipedia.org/wiki/File:Helvellyn_Striding_Edge_360_Panorama,_Lake_District_-_June_09.jpg", 
+            "main": "360:https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Helvellyn_Striding_Edge_360_Panorama%2C_Lake_District_-_June_09.jpg/800px-Helvellyn_Striding_Edge_360_Panorama%2C_Lake_District_-_June_09.jpg", 
             "pagenumber": "1", 
             "text": "This is a page with a 360 Image", 
             "title": "Page 1"
