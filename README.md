@@ -17,7 +17,7 @@
             }, 
             "main": "https://www.youtube.com/watch?v=hfP6YzVwORU", 
             "pagenumber": "2", 
-            "text": "", 
+            "text": "Page with youtube", 
             "title": "Youtube"
         }, 
         "3": {
@@ -27,8 +27,18 @@
             }, 
             "main": "https://pre00.deviantart.net/a5c4/th/pre/f/2012/148/f/6/cool_background_by_harrywolke5-d51eq6a.jpg", 
             "pagenumber": "3", 
-            "text": "", 
+            "text": "page with an img", 
             "title": "Img"
+        }, 
+        "4": {
+            "img": {
+                "cap1": "", 
+                "img1": "https://pre00.deviantart.net/a5c4/th/pre/f/2012/148/f/6/cool_background_by_harrywolke5-d51eq6a.jpg"
+            }, 
+            "main": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1537543002737!6m8!1m7!1sCAoSLEFGMVFpcE01b01tLUNzZ1NwNjFYRkYya2lQbkpyXzlJS0g5TnpKSmZBOV8w!2m2!1d39.694652!2d-105.200019!3f39.98793916369176!4f2.9702229346883087!5f0.7820865974627469\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>", 
+            "pagenumber": "4", 
+            "text": "Page with a map", 
+            "title": "Map"
         }, 
         "auther": "Caleb Neel", 
         "description": "This is an Example NaviGlobe Treks Project", 
