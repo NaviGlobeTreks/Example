@@ -59,7 +59,7 @@
                 "img1": "https://drive.google.com/uc?export=view&id=1CA8Q1RTkxu3KrFGpyLD8WO6K5P1rwfR6 ", 
                 "img2": "https://drive.google.com/uc?export=view&id=1z6xsXjqrIIaJSN0gCSKcXrDfghRFTBC6 "
             }, 
-            "main": "360:https://drive.google.com/file/d/1z6xsXjqrIIaJSN0gCSKcXrDfghRFTBC6/view?usp=sharing", 
+            "main": "<iframe src=\"https://www.google.com/maps/embed?pb=!4v1537548708626!6m8!1m7!1sCAoSLEFGMVFpcE1udjZHY3dRSmpFLXFYcVB1YlcyWkxhbDludl91RmpzVzgwU1kw!2m2!1d39.691045!2d-105.1648639!3f138.22070400841764!4f-0.010621208757498835!5f0.7820865974627469\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>", 
             "pagenumber": "6", 
             "text": "360 Img from Google drive", 
             "title": "360 Photo from google drive"
