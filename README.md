@@ -69,6 +69,7 @@
         "mimg": "https://www.goodfreephotos.com/albums/united-states/colorado/other-colorado/clouds-over-the-lake-and-mountains-in-colorado.jpg", 
         "private": "False", 
         "subject": "Science", 
-        "title": "Example"
+        "title": "Example", 
+        "ver": "1.0"
     }
 }
