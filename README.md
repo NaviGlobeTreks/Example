@@ -70,6 +70,6 @@
         "private": "False", 
         "subject": "Science", 
         "title": "Example", 
-        "ver": "1.0"
+        "ver": "1.1"
     }
 }
