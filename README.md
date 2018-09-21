@@ -10,6 +10,16 @@
             "text": "This is a page with a 360 Image", 
             "title": "Page 1"
         }, 
+        "2": {
+            "img": {
+                "cap1": "", 
+                "img1": "https://www.goodfreephotos.com/albums/united-states/colorado/other-colorado/clouds-over-the-lake-and-mountains-in-colorado.jpg"
+            }, 
+            "main": "", 
+            "pagenumber": "2", 
+            "text": "", 
+            "title": "asd"
+        }, 
         "auther": "Caleb Neel", 
         "description": "This is an Example NaviGlobe Treks Project", 
         "grade": "K-2", 
