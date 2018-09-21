@@ -52,6 +52,16 @@
             "text": "Page with google drive images", 
             "title": "Google Drive IMG"
         }, 
+        "6": {
+            "img": {
+                "cap1": "", 
+                "img1": "https://drive.google.com/uc?export=view&id=1CA8Q1RTkxu3KrFGpyLD8WO6K5P1rwfR6 "
+            }, 
+            "main": "360:https://drive.google.com/file/d/1z6xsXjqrIIaJSN0gCSKcXrDfghRFTBC6/view?usp=sharing", 
+            "pagenumber": "6", 
+            "text": "360 Img from Google drive", 
+            "title": "360 Photo from google drive"
+        }, 
         "auther": "Caleb Neel", 
         "description": "This is an Example NaviGlobe Treks Project", 
         "grade": "K-2", 
