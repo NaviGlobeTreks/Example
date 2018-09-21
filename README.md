@@ -40,6 +40,18 @@
             "text": "Page with a map", 
             "title": "Map"
         }, 
+        "5": {
+            "img": {
+                "cap1": "", 
+                "cap2": "", 
+                "img1": "https://drive.google.com/uc?export=view&id=1CA8Q1RTkxu3KrFGpyLD8WO6K5P1rwfR6 ", 
+                "img2": "https://drive.google.com/uc?export=view&id=1cNrWlJNpossS0esh0xe9llHUnRU6dxdu "
+            }, 
+            "main": "https://drive.google.com/file/d/1CA8Q1RTkxu3KrFGpyLD8WO6K5P1rwfR6/view?usp=sharing", 
+            "pagenumber": "5", 
+            "text": "Page with google drive images", 
+            "title": "Google Drive IMG"
+        }, 
         "auther": "Caleb Neel", 
         "description": "This is an Example NaviGlobe Treks Project", 
         "grade": "K-2", 
